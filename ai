@@ -32,7 +32,7 @@
         <section id="product-section" class="container">
             <h2>我们的产品</h2>
             <div class="product-card">
-                <img src="images/product1.jpg" alt="Product 1">
+                <img src="product1.png" alt="Product 1">
                 <h3>清新柑橘</h3>
                 <p>前调：柑橘、柠檬</p>
                 <p>中调：茉莉、玫瑰</p>
@@ -40,7 +40,7 @@
                 <button>立即购买</button>
             </div>
             <div class="product-card">
-                <img src="images/product2.jpg" alt="Product 2">
+                <img src="product2.png" alt="Product 2">
                 <h3>花香浪漫</h3>
                 <p>前调：橙花、薰衣草</p>
                 <p>中调：茉莉、玫瑰</p>
